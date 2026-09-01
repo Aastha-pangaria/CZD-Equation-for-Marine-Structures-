@@ -1,8 +1,8 @@
-- **Python**
-- **PySR**
-- **Scikit-learn**
-- **Random Forest**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Jupyter Notebook**
+numpy
+pandas
+matplotlib
+scikit-learn
+pysr
+openpyxl
+jupyter
+notebook
