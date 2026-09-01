@@ -244,7 +244,7 @@ CZD-Prediction-Marine-Structures/
 ├── requirements.txt
 ├── .gitignore
 │
-├── notebooks/
+├── Code/
 │   ├── after_taking_J_and_TE_Q_constant.ipynb
 │   ├── analysis.ipynb
 │   ├── analysis_of_level_8_9_10.ipynb
@@ -257,18 +257,14 @@ CZD-Prediction-Marine-Structures/
 │   ├── runing_level_wise_1_to_5.ipynb
 │   └── tryin_that_k_thing.ipynb
 │
-├── thesis/
-│   └── thesis.pdf
-│
-└── results/
-    └── figures/
+├── thesis.pdf
 ```
 
 ---
 
 ## Notebooks
 
-The `notebooks/` directory contains the computational work carried out during the project, including data analysis, level-wise Symbolic Regression, parameter isolation, coefficient analysis, model development, and plotting.
+The `Code/` directory contains the computational work carried out during the project, including data analysis, level-wise Symbolic Regression, parameter isolation, coefficient analysis, model development, and plotting.
 
 The notebooks represent the progression of the analysis from exploratory work to the final modelling framework.
 
@@ -347,7 +343,7 @@ The final thesis provides the complete methodology, equations, analysis, and int
 The complete thesis documenting the methodology and results is available in:
 
 ```text
-thesis/thesis.pdf
+thesis.pdf
 ```
 
 The thesis contains the detailed background, literature review, FEM-generated dataset description, Symbolic Regression methodology, coefficient analysis, DWTR analysis, Random Forest validation, results, limitations, and future work.
