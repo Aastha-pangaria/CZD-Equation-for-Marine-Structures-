@@ -288,10 +288,9 @@ The notebooks represent the progression of the analysis from exploratory work to
 Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/CZD-Prediction-Marine-Structures.git
-cd CZD-Prediction-Marine-Structures
+git clone https://github.com/Aastha-pangaria/CZD-Equation-for-Marine-Structures-.git
+cd CZD-Equation-for-Marine-Structures-
 ```
-
 Install the required dependencies:
 
 ```bash
